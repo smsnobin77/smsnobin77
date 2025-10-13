@@ -44,7 +44,8 @@ I am actively seeking **Summer 2026** research internship roles in **NLP**, **CV
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=plastic&logo=zotero&logoColor=white)
 
-### 📫 Get in Touch
+## 📫 Get in Touch
+
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7gRgh7QAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobinsarwar/)
 [![Twitter (X)](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
