@@ -11,7 +11,7 @@ I am a CS PhD student at the University of Maryland, Baltimore County (UMBC) foc
 ---
 
 ### 📌 Looking for: Summer 2026 Research Internship
-I am actively exploring **Summer 2026** research internship roles in **NLP**, **CV**, and **ML**—especially projects on **trustworthy LLMs/VLMs**, **alignment**, **robustness**, and **federated/private learning**.
+I am actively seeking **Summer 2026** research internship roles in **NLP**, **CV**, and **ML**, with emphasis on **trustworthy LLMs/VLMs**, **alignment**, **robustness**, and **federated/privacy-preserving machine learning**.
 
 ---
 
