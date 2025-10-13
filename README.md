@@ -46,8 +46,8 @@ I am actively seeking **Summer 2026** research internship roles in **NLP**, **CV
 
 ## 📫 Get in Touch
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7gRgh7QAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobinsarwar/)
-[![Twitter (X)](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=7gRgh7QAAAAJ&view_op=list_works&sortby=pubdate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smsnobin77/)
+[![Twitter (X)](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/smsnobin77)
 [![Website](https://img.shields.io/badge/Website-4B0082?style=for-the-badge&logo=About.me&logoColor=white)](https://smsnobin77.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsarwar96@gmail.com)
