@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=smsnobin77&label=Profile%20views&color=4682B4&style=plastic" alt="smsnobin77" />
+  <img src="https://komarev.com/ghpvc/?username=smsnobin77&label=Profile%20views&color=4682B4&style=for-the-badge" alt="smsnobin77" />
 </p>
 
 # 👋 Hi, I'm Nobin Sarwar
