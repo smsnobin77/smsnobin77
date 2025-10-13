@@ -8,12 +8,8 @@
 
 I am a CS PhD student at the University of Maryland, Baltimore County (UMBC) focusing on **alignment** and **robustness** in **LLMs** and **VLMs**. My work aims to create reliable, efficient, and impactful AI for real-world applications.
 
----
-
 ### 📌 Looking for: Summer 2026 Research Internship
 I am actively seeking **Summer 2026** research internship roles in **NLP**, **CV**, and **ML**, with emphasis on **trustworthy LLMs/VLMs**, **alignment**, **robustness**, and **federated/privacy-preserving machine learning**.
-
----
 
 ## 💻 Tech Stack
 
@@ -47,8 +43,6 @@ I am actively seeking **Summer 2026** research internship roles in **NLP**, **CV
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=plastic&logo=zotero&logoColor=white)
-
----
 
 ### 📫 Get in Touch
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7gRgh7QAAAAJ)
