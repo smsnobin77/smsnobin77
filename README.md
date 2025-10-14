@@ -26,6 +26,7 @@ I am actively seeking **Summer 2026** research internship roles in **NLP**, **CV
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-007ACC?style=plastic)
 ![Flower](https://img.shields.io/badge/Flower%20FL-2E8B57?style=plastic)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=000)
 
 **Libraries & Tools**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
