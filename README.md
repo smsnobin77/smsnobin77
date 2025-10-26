@@ -6,7 +6,7 @@
 
 **Advancing Trustworthy LLMs/VLMs · CS PhD Student @ UMBC NLP · Seeking Summer 2026 Research Internship**
 
-I am a CS PhD student at the **University of Maryland, Baltimore County** (UMBC) focusing on **Trustworthy Foundation Models**, including reasoning, privacy-preserving LLMs [[1](https://arxiv.org/abs/2509.14275)], unlearning, and robustness [[2](https://arxiv.org/abs/2502.18536)]. My work aims to create reliable, efficient, and impactful AI for real-world applications.
+I am a CS PhD student at the **University of Maryland, Baltimore County** (UMBC) focusing on **Trustworthy Foundation Models**, including reasoning, privacy-preserving LLMs [<a href="https://arxiv.org/abs/2509.14275" target="_blank">1</a>], unlearning, and robustness [<a href="https://arxiv.org/abs/2502.18536" target="_blank">2</a>]. My work aims to create reliable, efficient, and impactful AI for real-world applications.
 
 ### 📌 Looking for: Summer 2026 Research Internship
 I am actively seeking **Summer 2026** research internship roles in **NLP**, **CV**, and **ML**, with emphasis on **trustworthy LLMs/VLMs**, **alignment**, **robustness**, and **federated/privacy-preserving machine learning**.
