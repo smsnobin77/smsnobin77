@@ -4,9 +4,13 @@
 
 # 👋 Hi, I'm Nobin Sarwar
 
-**Advancing Trustworthy LLMs/VLMs · CS PhD Student @ UMBC NLP · Seeking Summer 2026 Research Internship**
+**Advancing Trustworthy Post-Training & Agentic LLMs/VLMs · CS PhD Student @ UMBC NLP · Seeking Summer 2026 Research Internship**
 
-I am a CS PhD student at the **University of Maryland, Baltimore County** (UMBC) focusing on **Trustworthy Foundation Models**, including reasoning, privacy-preserving LLMs [[1](https://arxiv.org/abs/2509.14275)], unlearning, and robustness [[2](https://arxiv.org/abs/2502.18536)]. My work aims to create reliable, efficient, and impactful AI for real-world applications.
+I am a CS PhD student at the **University of Maryland, Baltimore County** (UMBC) focusing on **post-training optimization** and **system-level methods** for LLMs and multimodal foundation models, with a focus on **agentic reasoning** and **controllable adaptation**. Ongoing work spans
+
+- **Reasoning reliability and verification:** retrieval-grounded structured inference and agentic retrieve-verify workflows for scientific claim and feasibility assessment, hallucination mitigation in multimodal QA ([FilterRAG](https://arxiv.org/abs/2502.18536))
+
+- **Privacy-preserving and controllable model adaptation:** federated fine-tuning of LLMs with Differential Privacy ([FedMentor](https://arxiv.org/abs/2509.14275), [FedMentalCare](https://arxiv.org/abs/2503.05786)), targeted multimodal unlearning ([Multimodal Unlearning Survey](https://openreview.net/pdf?id=xC66VYDIaV))
 
 ### 📌 Looking for: Summer 2026 Research Internship
 I am actively seeking **Summer 2026** research internship roles in **NLP**, **CV**, and **ML**, with emphasis on **trustworthy LLMs/VLMs**, **alignment**, **robustness**, and **federated/privacy-preserving machine learning**.
