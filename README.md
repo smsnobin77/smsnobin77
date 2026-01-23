@@ -13,7 +13,7 @@ I am a CS PhD student at the **University of Maryland, Baltimore County** (UMBC)
 - **Privacy-preserving and controllable model adaptation:** federated fine-tuning of LLMs with Differential Privacy ([FedMentor](https://arxiv.org/abs/2509.14275), [FedMentalCare](https://arxiv.org/abs/2503.05786)), targeted multimodal unlearning ([Multimodal Unlearning Survey](https://openreview.net/pdf?id=xC66VYDIaV))
 
 ### 📌 Looking for: Summer 2026 Research Internship
-I am actively seeking **Summer 2026** research internship roles in **NLP**, **multimodal learning (VLMs)**, and **ML**, with an emphasis on **post-training and agentic systems for trustworthy LLMs/VLMs**, including **alignment**, **robustness**, **privacy-preserving/federated learning**, and **multimodal unlearning**.
+I am seeking **Summer 2026** research internships in **NLP** and **ML**, focusing on **post-training and agentic systems for trustworthy LLMs/VLMs**, including **alignment**, **robustness**, **privacy-preserving/federated learning**, and **multimodal unlearning**.
 
 ## 💻 Tech Stack
 
