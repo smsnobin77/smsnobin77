@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Nobin Sarwar
 
-**Advancing Trustworthy Post-Training & Agentic LLMs/VLMs · CS PhD Student @ UMBC NLP · Seeking Summer 2026 Research Internship**
+**Trustworthy Post-Training & Agentic LLMs/VLMs · CS PhD Student @ UMBC NLP · Seeking Summer 2026 Research Internship**
 
 I am a CS PhD student at the **University of Maryland, Baltimore County** (UMBC) focusing on **post-training optimization** and **system-level methods** for LLMs and multimodal foundation models, especially **agentic reasoning** and **controllable adaptation**. Ongoing work spans
 
