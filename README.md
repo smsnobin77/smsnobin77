@@ -6,7 +6,7 @@
 
 **NLP PhD Student @ [UMBC CS](https://www.csee.umbc.edu/undergraduate/computer-science-bs/) · Advancing Trustworthy Post-Training & Agentic LLMs/VLMs**
 
-I am a CS PhD student at the **University of Maryland, Baltimore County** (UMBC) focusing on **post-training optimization** and **system-level methods** for LLMs and multimodal foundation models, especially **agentic reasoning** and **controllable adaptation**. Ongoing work spans
+I am a NLP PhD student at the **University of Maryland, Baltimore County** (UMBC) Computer Science focusing on **post-training optimization** and **system-level methods** for LLMs and multimodal foundation models, especially **agentic reasoning** and **controllable adaptation**. Ongoing work spans
 
 - **Reasoning reliability and verification:** retrieval-grounded structured inference and agentic retrieve-verify workflows for scientific claim and feasibility assessment, hallucination mitigation in multimodal QA ([FilterRAG](https://arxiv.org/abs/2502.18536))
 
