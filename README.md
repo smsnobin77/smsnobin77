@@ -10,7 +10,7 @@ I am a NLP PhD student at the **University of Maryland, Baltimore County** (UMBC
 
 - **Reasoning reliability and verification:** retrieval-grounded structured inference and agentic retrieve-verify workflows for scientific claim and feasibility assessment, hallucination mitigation in multimodal QA ([FilterRAG](https://arxiv.org/abs/2502.18536))
 
-- **Privacy-preserving and controllable model adaptation:** federated fine-tuning of LLMs with Differential Privacy ([FedMentor](https://arxiv.org/abs/2509.14275), [FedMentalCare](https://arxiv.org/abs/2503.05786)), targeted multimodal unlearning ([Multimodal Unlearning Survey](https://openreview.net/pdf?id=xC66VYDIaV))
+- **Privacy-preserving and controllable model adaptation:** federated fine-tuning of LLMs with Differential Privacy ([FedMentor](https://arxiv.org/abs/2509.14275), [FedMentalCare](https://arxiv.org/abs/2503.05786)), targeted multimodal unlearning ([Multimodal Unlearning Survey](http://dx.doi.org/10.36227/techrxiv.176945748.88280394/v1))
 
 ### 📌 Looking for: Summer 2026 Research Internship
 I am seeking **Summer 2026** research internships in **NLP** and **ML**, focusing on **post-training and agentic systems for trustworthy LLMs/VLMs**, including **alignment**, **robustness**, **privacy-preserving/federated learning**, and **multimodal unlearning**.
