@@ -58,8 +58,3 @@ I am seeking **Summer 2026** research internships in **NLP** and **ML**, focusin
 [![Twitter (X)](https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/smsnobin77)
 [![Website](https://img.shields.io/badge/Website-4B0082?style=for-the-badge&logo=About.me&logoColor=white)](https://smsnobin77.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smsarwar96@gmail.com)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=smsnobin77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=smsnobin77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smsnobin77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
