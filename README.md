@@ -17,8 +17,7 @@ I am a NLP PhD student at the **University of Maryland, Baltimore County** (UMBC
 I am seeking **Summer 2026** research internships in **NLP** and **ML**, focusing on **post-training and agentic systems for trustworthy LLMs/VLMs**, including **alignment**, **robustness**, **privacy-preserving/federated learning**, and **multimodal unlearning**.
 -->
 
-### 🤝 Open to: Collaborations & Mentoring
-Open to **collaborations** on **agentic reasoning**, **post-training**, and **LLM evaluation** — and to **mentoring** undergrad and grad students new to research. [Email](mailto:smsarwar96@gmail.com) me anytime.
+🤝 Open to **collaborations** on **agentic reasoning**, **post-training**, and **LLM evaluation** — and to **mentoring** undergrad and grad students new to research. [Email](mailto:smsarwar96@gmail.com) me anytime.
 
 ## 💻 Tech Stack
 
